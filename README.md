@@ -11,7 +11,7 @@
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me :
- Hi, I'm Sakuntala Oopphaboot, Software Quality Assurance Quality from Thailand
+ Hi, I'm Sakuntala Oopphaboot, Software Quality Assurance from Thailand
  <br>
  📫 How to reach me: <a href="mailto: op.sakuntala@gmail.com">op.sakuntala@gmail.com</a>
  
